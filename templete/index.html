@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Get Course Recommendations</h1>
+        <label for="user_id">Enter User ID:</label>
+        <input type="number" id="user_id" name="user_id" placeholder="Enter user ID">
+        <button onclick="getRecommendations()">Get Recommendations</button>
+        <div class="loader" id="loader"></div>
+        <div id="message" class="message"></div>
+
+        <h2>Recommended Courses</h2>
+        <table id="courseTable">
+            <thead>
+                <tr>
+                    <th>Course ID</th>
+                    <th>Course Name</th>
+                    <th>Rating</th>
+                </tr>
+            </thead>
+            <tbody id="recommendations"></tbody>
+        </table>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
