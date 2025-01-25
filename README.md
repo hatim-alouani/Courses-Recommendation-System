@@ -55,4 +55,3 @@ This project demonstrates how Big Data can be leveraged for **real-time, persona
 - Explore additional recommendation algorithms for improved accuracy
 - Enhance the user interface for a better experience
 - Integrate more advanced features like collaborative filtering
-- 
