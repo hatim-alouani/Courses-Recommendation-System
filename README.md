@@ -19,16 +19,18 @@ Before running the project, ensure the following tools are installed and configu
 - ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-4E88B0?style=flat&logo=apache-spark&logoColor=white)
 
 ### Database:
-- ![Cassandra](https://img.shields.io/badge/Cassandra-007ACC?style=flat)
+- ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
 
 ### Backend:
-- ![Flask](https://img.shields.io/badge/Flask-007ACC?style=flat)
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### Frontend:
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Programming Language:
-- ![Python](https://img.shields.io/badge/Python-00599C?style=flat&logo=gnu-Python&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 🌍 About the Project
 
