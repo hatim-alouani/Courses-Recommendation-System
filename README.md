@@ -1,4 +1,4 @@
-# Course Recommendation System Using Big Data 📊
+#Recommendation System 📊
 
 This project implements a **Course Recommendation System** utilizing **Big Data** tools to provide personalized course recommendations based on user preferences and ratings.
 
@@ -55,3 +55,11 @@ This project demonstrates how Big Data can be leveraged for **real-time, persona
 - Explore additional recommendation algorithms for improved accuracy
 - Enhance the user interface for a better experience
 - Integrate more advanced features like collaborative filtering
+
+- ## 📁 Datasets Used
+
+- [Sales Data](https://www.kaggle.com/datasets/hossaingh/udemy-courses) – Dataset for managing sales data.
+
+---
+
+Feel free to add any other specific details about the tools, technologies, or dataset that were used in your project!
