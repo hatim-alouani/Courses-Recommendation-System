@@ -1,6 +1,6 @@
 #Recommendation System 📊
 
-This project implements a **Course Recommendation System** utilizing **Big Data** tools to provide personalized course recommendations based on user preferences and ratings.
+This project implements a **Courses Recommendation System** utilizing **Big Data** tools to provide personalized course recommendations based on user preferences and ratings.
 
 ## 🔑 Prerequisites
 
